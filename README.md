@@ -9,7 +9,7 @@ Bienvenue sur mon portfolio ! Voici mes principaux projets :
 Application web Shiny pour la prévision des ventes sur 10 ans avec simulation de scénarios et validation des prévisions.
 
 ## 2. Modélisation Prédictive – Brouillon
-[Voir le projet](https://github.com/ton-username/prediction-brouillon)  
+[Predictive model for pipeline failure](https://github.com/Boris240/Merlin-project.git)  
 Notebook Jupyter illustratif pour prédire les conduits d’assainissement en mauvais état en France. Version nettoyée pour confidentialité.
 
 ## 3. Troisième projet
