@@ -12,10 +12,10 @@ Application web Shiny pour la prévision des ventes sur 10 ans avec simulation d
 [Predictive model for pipeline failure](https://github.com/Boris240/Merlin-project.git)  
 Notebook Jupyter illustratif pour prédire les conduits d’assainissement en mauvais état en France. Version nettoyée pour confidentialité.
 
-## 3. Troisième projet
-[Voir le projet](https://github.com/ton-username/projet-3)  
-Courte description de ton troisième projet.
+## 3. TP WOOGLE
+[Information retrieval project](https://github.com/Boris240/TP-WOOGLE.git)  
+Ce projet consistait à mettre en place un mininavigateur
 
----
+
 
 Vous pouvez consulter chaque projet pour voir la méthodologie, les outils utilisés et les concepts développés.
