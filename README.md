@@ -5,7 +5,7 @@
 Bienvenue sur mon portfolio ! Voici mes principaux projets :
 
 ## 1. Forecasting Long-Term Sales – Shiny App
-[Voir le projet](https://github.com/ton-username/shiny-forecast-safe)  
+[Forecast project](https://github.com/Boris240/Sale-forecasting-tools.git)  
 Application web Shiny pour la prévision des ventes sur 10 ans avec simulation de scénarios et validation des prévisions.
 
 ## 2. Modélisation Prédictive – Brouillon
